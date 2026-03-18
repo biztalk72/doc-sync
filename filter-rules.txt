@@ -1,0 +1,13 @@
+# Exclude macOS system files
+- .DS_Store
+- ._*
+- .Trash/**
+- .Trashes/**
+- Icon\r
+- .fseventsd/**
+- .Spotlight-V100/**
+- .TemporaryItems/**
+# Exclude common temp/cache files
+- *.tmp
+- ~$*
+- .~lock.*
